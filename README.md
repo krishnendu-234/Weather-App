@@ -1,2 +1,7 @@
-# Weather-App
-A sleek weather app with liquid-glass UI using HTML, TailwindCSS &amp; JS. Shows live weather &amp; 5-day forecast via API, with dynamic backgrounds, animations, geolocation &amp; responsive design.
+This Modern Weather Forecast App features a stunning liquid-glass (frosted glass) UI built with HTML, TailwindCSS, and JavaScript, delivering both visual appeal and functionality. It integrates a Weather API to provide real-time weather updates along with a 5-day forecast, including details such as temperature, humidity, wind speed, sunrise/sunset times, air quality index, and health recommendations.
+
+The UI is fully responsive, ensuring an optimized experience across desktops, tablets, and mobiles. Using TailwindCSS, the layout adapts seamlessly while maintaining the sleek, glass-like visual style. Interactive features include dynamic background changes based on weather conditions and day/night mode animations (stars, rain, snow effects) for an immersive experience.
+
+On the JavaScript side, the app demonstrates live API data fetching, search with city suggestions, and geolocation-based weather retrieval. It incorporates performance optimizations, debounced input handling, and robust error management with user-friendly modals to ensure smooth operation even under poor network conditions or API failures.
+
+Whether you're learning frontend development or building production-ready interfaces, this project covers UI design, API integration, responsive layouts, and user interaction handling—all while delivering a polished, animated, and highly functional weather dashboard. Perfect for showcasing modern web development skills.
